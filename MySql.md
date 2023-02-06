@@ -45,7 +45,8 @@ trava do MySQL Workbanch ## SET SQL_SAFE_UPDATES =0;
 INSERT INTO celulares (...) <br/>
 VALUES ( );
   
-UPDATE celulares SET bateria = "100 WHERE iphones = "iphone_XR"; ## a coluna que voce quer editar 
+UPDATE celulares SET bateria = "100 WHERE iphones = "iphone_XR"; <br/>
+a coluna que voce quer editar 
 
 ## DELETE 
 
