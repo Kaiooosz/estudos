@@ -16,8 +16,6 @@ texto = VARCHAR(1000) (X) <br/>
 numero = INT (x) <br/>
 datas = TIMESTEMP; DATE;
 
-## VARCHAR = STRINGS
-
            
 ## Recursos CRUD 
 
