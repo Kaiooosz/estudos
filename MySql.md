@@ -1,16 +1,14 @@
 ## MySQL
 
 ## criar um banco
-CREATE DATABASE 
+CREATE DATABASE <br/>
+
+CREATE = CRIAR <br/>
+
 ## remover um banco
-DROP DATABASE
+DROP DATABASE <br/>
 
-CREATE = CRIAR
-DROP = DELETAR 
-
-USE
-CREATE TABLE
-DROP TABLE 
+DROP = DELETAR <br/>
 
 ## TIPOS DE DADOS 
 
